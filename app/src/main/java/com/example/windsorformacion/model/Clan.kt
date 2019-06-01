@@ -14,7 +14,7 @@ class Clan {
         preRovers.addAll(
             listOf(
                 Rover("Presidente: Mariana Barragán", i++),
-                Rover("Vice: Mariana Pinilla", i++),
+                Rover("Vicepresidente: Mariana Pinilla", i++),
                 Rover("Camila Jaimes", i++),
                 Rover("Laura Martelo", i++),
                 Rover("Angélica Briceño", i++),
@@ -26,7 +26,7 @@ class Clan {
                 Rover("Camilo Zambrano", i++),
                 Rover("Juan Pablo", i++),
                 Rover("Efarin Pinilla", i++),
-                //Rover("Mariana Pinilla", i++),           VICEPRECIDENTE
+                //Rover("Mariana Pinilla", i++),           VICEPRESIDENTE
                 Rover("Felipe", i++),
                 Rover("Daniel Viteri", i++),
                 Rover("Corinne", i++),
