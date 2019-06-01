@@ -41,6 +41,10 @@ class Clan {
                 Rover("Nicolas Cardozo", i++),
                 Rover("Maria Gabriela Pabón", i++),
                 Rover("Juan David Pabón", i++),
+                Rover("Camilo Ante", i++),
+                Rover("Nicolás Murcia", i++),
+                Rover("Natalia Ramírez", i++),
+                Rover("Natalia Tarazona", i++),
                 Rover("Paula Marulanda", i)))
 
         rovers = preRovers
