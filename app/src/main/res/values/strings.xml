@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Formación Windsor</string>
+    <string name="miembros_del_clan">Miembros del Clan</string>
+    <string name="boton_agregar">Agregar Rover</string>
+    <string name="boton_eliminar">Remover Rover</string>
+    <string name="txtListaRovers">Agrega Rovers para que aparezcan acá</string>
+    <string name="miembros_presentes">Miembros Presentes</string>
+    <string name="titulo_formacion">Formación procesada</string>
+    <string name="txtProcesandoRovers">Procesando…</string>
+    <string name="txtNada">ups! parece que no hay nada para procesar</string>
+    <string name="boton_procesar">procesar la formación</string>
+</resources>
