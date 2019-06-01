@@ -43,6 +43,7 @@ class Clan {
                 Rover("Juan David Pabón", i++),
                 Rover("Camilo Ante", i++),
                 Rover("Nicolás Murcia", i++),
+                Rover("Juanita", i++),
                 Rover("Natalia Ramírez", i++),
                 Rover("Natalia Tarazona", i++),
                 Rover("Paula Marulanda", i)))
