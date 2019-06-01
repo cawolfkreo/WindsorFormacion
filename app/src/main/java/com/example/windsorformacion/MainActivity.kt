@@ -41,11 +41,11 @@ class MainActivity : AppCompatActivity() {
         ajustarListeners()
     }
 
-    override fun onSaveInstanceState(outState: Bundle?, outPersistentState: PersistableBundle?) {
+    override fun onSaveInstanceState(outState: Bundle?) {
         outState?.putParcelableArrayList(clanActual, clanPresente.rovers)
         outState?.putParcelableArrayList(elClan, clan.rovers)
         outState?.putStringArrayList(losNombres, nombresLista)
-        super.onSaveInstanceState(outState, outPersistentState)
+        super.onSaveInstanceState(outState)
     }
 
     override fun onRestoreInstanceState(savedInstanceState: Bundle?, persistentState: PersistableBundle?) {
